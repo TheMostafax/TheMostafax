@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">I am a software engineer student</h3>
 
-- 🔭 I’m currently working on Web App using Mern **WebApp Using Mern**
+- 🔭 I’m currently working on **WebApp Using Mern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
