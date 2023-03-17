@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
-<h3 align="center">I am a Software Engineer Student</h3>
+<h3 align="center">I am a software engineer student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themostafax" alt="themostafax" /></a> </p>
+- 🔭 I’m currently working on Web App using Mern **WebApp Using Mern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
