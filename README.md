@@ -18,4 +18,4 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&langs_count=4&theme=nightowl)]()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=nightowl&show_icons=true)
-<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height=500>
+
