@@ -17,4 +17,4 @@
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TheMostafax&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/TheMostafax)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=algolia&show_icons=true)](https://github.com/TheMostafax)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax)](https://github.com/TheMostafax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax)](https://github.com/TheMostafax)
