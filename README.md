@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">I am a software engineer student</h3>
-<img src="https://thumbs.gfycat.com/SimilarNippyAsp-size_restricted.gif" align="right" height=240>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kObDKreEAsSrRWLbojtyamx7sR9IYgENc0hoJbKUH3TKwuXwS-js8cP9oPHZU4hUH8o&usqp=CAU" align="right" height=240>
 - 🔭 I’m currently working on **WebApp Using Mern**
 
 - 🌱 I’m currently learning **MEAN and MERN stack**
