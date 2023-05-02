@@ -17,5 +17,5 @@
 
 
 <div style="align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joefarag-00&layout=compact&theme=dracula&column=7&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMostafax-00&layout=compact&theme=dracula&column=7&langs_count=8"/>
 </div>
