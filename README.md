@@ -19,5 +19,4 @@
 
 <div style="align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joefarag-00&layout=compact&theme=dracula&column=7&langs_count=8"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joefarag-00&theme=dracula&column=7&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
