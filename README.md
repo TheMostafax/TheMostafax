@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **mh1546226@gmail.com**
 
+- <a href="https://drive.google.com/file/d/1jBy8o5M47123ChlTN73iXX2hoiPhtUUN/view?usp=share_link">Download My CV</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
