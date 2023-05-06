@@ -2,9 +2,9 @@
 <h3 align="center">I am a Software Engineer Student</h3>
 <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="right" height=240>
 
-- 🔭 I’m currently working on [OZONE3 WebApp using MERN](https://github.com//)
+- 🔭 I’m currently working on [OZONE3 WebApp using MERN](https://github.com/TheMostafax/OZONE3-WebApp)
 
-- 🌱 I’m currently learning **MEAN and MERN stack**
+- 🌱 I’m currently learning [MEAN and MERN stack](https://www.geeksforgeeks.org/difference-between-mean-stack-and-mern-stack/)
 
 - 📫 How to reach me **mh1546226@gmail.com**
 
