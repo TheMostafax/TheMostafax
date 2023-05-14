@@ -20,5 +20,5 @@
 </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&langs_count=8&theme=nightowl)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&langs_count=6&theme=nightowl)]()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=outrun&show_icons=true)
