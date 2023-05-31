@@ -17,8 +17,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
 </p>
 
-<hr>
 
+
+<hr>
 <table>
   <tr>
     <td align="center">
@@ -120,7 +121,9 @@
   </tr>
 </table>
 
- </p>
+
 <hr>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&theme=nightowl&langs_count=4)](https://github.com/TheMostafax/github-readme-stats)
 [![TheMostafax's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=nightowl)](https://github.com/TheMostafax/github-readme-stats#gh-dark-mode-only)
