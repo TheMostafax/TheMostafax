@@ -121,5 +121,5 @@
 
 
 <hr>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=synthwave)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=synthwave)](https://git.io/streak-stats)[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TheMostafax&theme=synthwave&show_icons=true)](https://github.com/TheMostafax)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&langs_count=4&theme=nightowl)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=outrun&show_icons=true)
