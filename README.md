@@ -122,5 +122,5 @@
 
 <hr>
 
-https://github-readme-streak-stats.herokuapp.com/?user=TheMostafax
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafa&theme=nightowel)](https://git.io/streak-stats)
 
