@@ -19,8 +19,9 @@
 
 
 
-<hr>
+
 <table>
+  <hr>
   <tr>
     <td align="center">
       <h3>Programming Languages</h3>
