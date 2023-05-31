@@ -122,7 +122,8 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax)](https://github.com/TheMostafax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&layout=compact&theme=nightowel)](https://github.com/TheMostafax/github-readme-stats)
+
 
 
 
