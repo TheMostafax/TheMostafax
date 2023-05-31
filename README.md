@@ -122,4 +122,4 @@
 
 <hr>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=synthwave)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=synthwave)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=synthwave)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=synthwave)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=synthwave&show_icons=true)](https://github.com/TheMostafax)
