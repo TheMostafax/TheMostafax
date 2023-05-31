@@ -122,6 +122,5 @@
 
 <hr>
 
+https://github-readme-streak-stats.herokuapp.com/?user=TheMostafax
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&theme=nightowl&langs_count=4)](https://github.com/TheMostafax/github-readme-stats)
-[![TheMostafax's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=nightowl)](https://github.com/TheMostafax/github-readme-stats)
