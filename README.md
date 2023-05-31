@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">I am a Software Engineer Student</h3>
-<img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="right" height=240>
+<img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="right" height=200>
 
 - 🔭 I’m currently working on [OZONE3 WebApp using MERN](https://github.com/TheMostafax/Ozone3-WebApp-MERN.git)
 
@@ -18,10 +18,10 @@
 </p>
 
 
-
+  <hr>
 
 <table>
-  <hr>
+
   <tr>
     <td align="center">
       <h3>Programming Languages</h3>
