@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning [MEAN and MERN stack](https://www.geeksforgeeks.org/difference-between-mean-stack-and-mern-stack/)
 
 - 📫 How to reach me **mh1546226@gmail.com**
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
