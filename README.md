@@ -122,10 +122,4 @@
 
 <hr>
 
-![TheMostafax's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=radical)
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=radical)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=dark&background=000000)](https://git.io/streak-stats)
