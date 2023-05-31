@@ -122,4 +122,4 @@
 
 <hr>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=synthwave)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=synthwave)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=synthwave&show_icons=true)](https://github.com/TheMostafax)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&show_icons=true&theme=synthwave)](https://github.com/TheMostafax/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheMostafax&theme=synthwave)](https://git.io/streak-stats)[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TheMostafax&theme=synthwave&show_icons=true)](https://github.com/TheMostafax)
