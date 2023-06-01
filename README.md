@@ -125,6 +125,6 @@
 
 <hr>
 
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMostafax-00&layout=compact&theme=nightowl&langs_count=4"/>
+<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheMostafax-00&theme=nightowl&column=7&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMostafax&langs_count=4&theme=nightowl)]()
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMostafax&theme=outrun&show_icons=true)
