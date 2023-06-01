@@ -5,8 +5,10 @@
 <h3 align="center">I am a Software Engineer Student</h3>
 <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="right" height=200>
 
-<h3 align="center">About me</h3>
-I am a Computer Science Student (3rd Year) at Sixth of October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile App Development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.
+<h2 align="left">About me</h2>
+
+<h3 align="left">I am a Computer Science Student (3rd Year) at Sixth of October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile App Development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
