@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [OZONE3 WebApp using MERN](https://github.com/TheMostafax/Ozone3-WebApp-MERN.git)
 
-- 🌱 I’m currently learning [MEAN and MERN stack](https://www.geeksforgeeks.org/difference-between-mean-stack-and-mern-stack/)
+- 🌱 I’m currently learning BlockChain
 
 - 📫 How to reach me **mh1546226@gmail.com**
 
