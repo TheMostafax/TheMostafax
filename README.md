@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/QN-H0zpiVucAAAAC/hunter-x-hunter-anime.gif" width="100%" height=300>
+  <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
 </p>
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">I am a Software Engineer Student</h3>
