@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/178/178311.gif" width="100%" height=200>
+  <img src="https://giffiles.alphacoders.com/178/178311.gif" width="100%" height=300>
 </p>
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">I am a Software Engineer Student</h3>
