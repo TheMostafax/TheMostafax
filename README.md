@@ -1,20 +1,25 @@
 <p align="center">
   <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
 </p>
-<h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
-<h3 align="center">I am a Software Engineer Student</h3>
-<img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="right" height=200>
+<h1 align="center">Hi there,
+ 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Mostafa Hassan</h1>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+
+<h1 align="left">About Me</h1>
+
+<h4 align="justify" style="font-family: times new roman" align="left">I am a Software Engineer Student (3rd Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile App Development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
 
 - 🔭 I’m currently working on [OZONE3 WebApp using MERN](https://github.com/TheMostafax/Ozone3-WebApp-MERN.git)
 
 - 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me **mh1546226@gmail.com**
+<hr>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me</h1>
 <p align="left">
 <a href="https://instagram.com/_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
