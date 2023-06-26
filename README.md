@@ -133,4 +133,3 @@
 
 <img style="height:50%;width:33%;max-width: 5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMostafax&theme=nightowl&langs_count=4&show_icons=true"/>   <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheMostafax&theme=nightowl&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
 
-
