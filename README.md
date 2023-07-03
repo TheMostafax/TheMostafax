@@ -133,4 +133,15 @@
 
 <img style="height:50%;width:33%;max-width: 5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMostafax&theme=nightowl&langs_count=4&show_icons=true"/>   <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheMostafax&theme=nightowl&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
 
+<hr>
+
+<p align="center">
+  <img src="https://cdn.quotesgram.com/img/83/79/1606310511-eren_yeager_quote_by_yossrizal-d6xaqh4.png" width="100%" height=300>
+</p>
+
+
+
+
+
+
 
