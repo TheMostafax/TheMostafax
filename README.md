@@ -136,7 +136,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://cdn.quotesgram.com/img/83/79/1606310511-eren_yeager_quote_by_yossrizal-d6xaqh4.png" width="100%" height=300>
+  <img src="https://external-preview.redd.it/IchdhURbykYTW7kk2jVg6lT3SsHXR4U03gEfn6SrUXw.jpg?auto=webp&s=114b4c78762d0cc9e1e52ee39d76d3d595038380" width="100%" height=300>
 </p>
 
 
