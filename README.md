@@ -9,7 +9,7 @@
 
 <h1 align="left">About me</h1>
 
-<h4 align="justify" style="font-family: times new roman" align="left">I am a Software Engineer Student (3rd Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile App Development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
+<h4 align="justify" style="font-family: times new roman" align="left">I am a Software Engineering Student (3rd Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile App Development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
 
 - 🔭 I’m currently working on [My Kingdom Academy](https://github.com/TheMostafax/My-Kingdom-Academy.git)
 
