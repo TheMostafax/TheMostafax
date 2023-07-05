@@ -11,7 +11,7 @@
 
 <h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student (3rd Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile app development using Flutter), I also have the skills to build a software system for clients. Learning new things is always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
 
-- 🔭 I’m currently working on [My Kingdom Academy](https://github.com/TheMostafax/My-Kingdom-Academy.git)
+- 🔭 I’m currently working on [My Anime App](https://github.com/TheMostafax/My_Anime_App.git)
 
 - 🌱 I’m currently learning **BlockChain**
 
