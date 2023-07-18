@@ -16,6 +16,11 @@
 - 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me **mh1546226@gmail.com**
+  
+- 🌍 My personal portfolio website [My Portfolio](https://github.com/TheMostafax/My_Anime_App.git)
+
+- 📜 You can check here my resume [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCmMyZ3K0B0Q5sOncEloBsT5qe/view?usp=sharing)
+
 <hr>
 
 <h1 align="left">Connect with me</h1>
