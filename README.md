@@ -11,15 +11,15 @@
 
 <h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student (4th Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile app development using Flutter), I also have the skills to build a software system for clients. Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
 
-- 🔭 I’m currently working on [My Anime App](https://github.com/TheMostafax/My_Anime_App.git)
+- 🔭 I’m currently working on : [My Anime App](https://github.com/TheMostafax/My_Anime_App.git)
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning : **BlockChain**
 
-- 📫 How to reach me **mh1546226@gmail.com**
+- 📫 How to reach me : **mh1546226@gmail.com**
   
-- 🌍 My personal portfolio website [My Portfolio](https://github.com/TheMostafax/My_Anime_App.git)
+- 🌍 My personal portfolio website : [My Portfolio](https://github.com/TheMostafax/My_Anime_App.git)
 
-- 📜 You can check here my resume [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCmMyZ3K0B0Q5sOncEloBsT5qe/view?usp=sharing)
+- 📜 You can check here my resume : [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCmMyZ3K0B0Q5sOncEloBsT5qe/view?usp=sharing)
 
 <hr>
 
