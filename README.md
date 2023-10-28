@@ -7,7 +7,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 
-
 <h1 align="left">About me</h1>
 
 <h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student (4th Year) at October University for Modern Science and Arts (MSA), under the supervision of Greenwich University's School of Computing Science, I am passionate about (Web development using ReactJs/NextJs) and (Mobile app development using Flutter), I also have the skills to build a software system for clients. Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
