@@ -103,6 +103,9 @@
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
       </a>
+       <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman" alt="postman" width="80" height="40"/>
+      </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
